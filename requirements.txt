@@ -1,0 +1,18 @@
+beautifulsoup4==4.12.3
+Brotli==1.1.0
+certifi==2024.2.2
+charset-normalizer==3.3.2
+coverage==5.5
+deprecation==2.1.0
+filetype==1.2.0
+idna==3.6
+mutagen==1.47.0
+packaging==23.2
+pycryptodomex==3.20.0
+pytube==15.0.0
+requests==2.31.0
+soupsieve==2.5
+toml==0.10.2
+urllib3==2.2.1
+websockets==12.0
+yt-dlp @ https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz#sha256=92a9031b45ee115aee1916d5e31f4f5d928619d2599d39afd6d7c8bc8964c2a3
